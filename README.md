@@ -2,11 +2,11 @@
 
 ## Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### by Nakul
 
 ### Description
 
-Create a description and fill it in here.
+Simiple Read me file
 
 ## Languages used
 
@@ -15,7 +15,7 @@ List them
 
 ### Known Bugs
 
-Are there any? If so what are they?
+no
 
 ## License
 
